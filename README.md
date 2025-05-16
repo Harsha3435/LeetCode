@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Harsha3435/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsha3435/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0898-transpose-matrix](https://github.com/Harsha3435/LeetCode/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harsha3435/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsha3435/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsha3435/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harsha3435/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Harsha3435/LeetCode/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harsha3435/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
