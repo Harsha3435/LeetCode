@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsha3435/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsha3435/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0898-transpose-matrix](https://github.com/Harsha3435/LeetCode/tree/master/0898-transpose-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Harsha3435/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Harsha3435/LeetCode/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Harsha3435/LeetCode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
