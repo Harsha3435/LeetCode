@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Harsha3435/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsha3435/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsha3435/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0777-toeplitz-matrix](https://github.com/Harsha3435/LeetCode/tree/master/0777-toeplitz-matrix) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Harsha3435/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsha3435/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Harsha3435/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0777-toeplitz-matrix](https://github.com/Harsha3435/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Harsha3435/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Harsha3435/LeetCode/tree/master/0898-transpose-matrix) |
