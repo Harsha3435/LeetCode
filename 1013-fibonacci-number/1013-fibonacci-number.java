@@ -1,10 +1,9 @@
 class Solution {
-    public static int fib(int a) {
-        if (a <= 1) return a;
-        return fib(a - 1) + fib(a - 2);
-    }
-    public static void main(String[] args) {
-        int a = 8;
-        System.out.println("Fibonacci number at position " + a + " is: " + fib(a));
+    public int fib(int n) {
+        if(n<=1){
+            return n;
+        }
+    return fib(n-1) + fib(n-2);    
+        
     }
 }
