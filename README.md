@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harsha3435/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsha3435/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Harsha3435/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0861-flipping-an-image](https://github.com/Harsha3435/LeetCode/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
@@ -93,4 +94,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harsha3435/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Harsha3435/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
