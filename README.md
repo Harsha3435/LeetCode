@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Harsha3435/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/Harsha3435/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Harsha3435/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Harsha3435/LeetCode/tree/master/1013-fibonacci-number) |
@@ -97,5 +98,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harsha3435/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Harsha3435/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/Harsha3435/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Harsha3435/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
