@@ -100,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Harsha3435/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Harsha3435/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Harsha3435/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Harsha3435/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Harsha3435/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
